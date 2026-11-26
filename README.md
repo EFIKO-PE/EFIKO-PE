@@ -26,6 +26,24 @@ También trabajo la **segmentación de audiencias** con datos de clientes, encue
 
 [Explorar el proyecto](https://github.com/EFIKO-PE/efiko-app) · [Descargar para Windows](https://github.com/EFIKO-PE/efiko-app/releases/latest)
 
+## Sistemas para clínicas dentales
+
+### DentalFlow · CRM de Salud & Estética, Huaral
+
+La clínica utiliza este CRM para coordinar la atención y la administración. El equipo puede agendar una cita con el profesional que atenderá al paciente, consultar su historia clínica y preparar un presupuesto. Desde el módulo de caja puede registrar los pagos del día. El sistema también contempla tarifas e inventario por sede.
+
+**Tecnología principal:** TypeScript (98,4 % del código según GitHub), con Next.js y Prisma.
+
+### OdontoTime · Control de asistencia
+
+Desarrollé una aplicación web instalable para registrar la asistencia del personal de una clínica odontológica. Al marcar desde el móvil, la persona recibe un comprobante con la hora exacta. La aplicación envía el registro a Google Sheets mediante Google Apps Script para que el equipo administrativo pueda consultarlo.
+
+**Lenguajes principales:** JavaScript (48,6 %), CSS (28,6 %) y HTML (22,5 %), según GitHub.
+
+## Lenguajes más usados en mis repositorios
+
+**TypeScript** es el lenguaje principal en 15 de mis 27 repositorios. Le siguen **HTML** en 4 y **JavaScript** en 3. GitHub también identifica **CSS** y **Blade** como principales en un repositorio cada uno. El recuento toma el lenguaje principal de cada proyecto a noviembre de 2026.
+
 ## Dentro de otros dos proyectos
 
 | Proyecto | Una decisión de diseño que puedes ver en el código |
