@@ -1,6 +1,8 @@
 # Hola, soy Kenior 👋
 
-Soy **Kenior Ruiz Ramírez**. Estudié Administración de Negocios Internacionales en el IES Huando y me formé en analítica y publicidad digital con Google. En **EFIKO** combino mi interés por los negocios y el desarrollo de software para explorar preguntas de mercado con datos de encuestas.
+Soy **Kenior Ruiz Ramírez**. Me gradué en Administración de Negocios Internacionales en el IES Huando en 2022 y me formé en analítica y publicidad digital con Google. En **EFIKO** combino mi interés por los negocios y el desarrollo de software para explorar preguntas de mercado con datos de encuestas.
+
+[Servicios](#servicios-profesionales) · [Proyectos](https://github.com/EFIKO-PE/efiko-app) · [Trayectoria](#trayectoria-profesional) · [Formación](#formación-en-negocios-y-ofimática)
 
 ## Servicios profesionales
 
@@ -65,10 +67,24 @@ Con ese diagnóstico puedo proponer una prueba pequeña: cambiar una pieza, docu
 | Certificación de Google Analytics | 11 de abril de 2024 |
 | Google Ads · Certificación en Medición | 27 de diciembre de 2023 |
 
-**Ofimática 365.** Completé un programa de 126 horas académicas de Word, Excel y PowerPoint. Recibí el certificado en enero de 2024, con nota final de **19/20**. También obtuve tres constancias de Perú Digital, una por cada herramienta, de ocho horas cada una.
+## Formación en negocios y ofimática
 
-## Experiencia fuera del código
+Mi línea de investigación en el IES Huando fue **Sistema FEKPI**. En diciembre de 2023 completé el **Programa de Actualización de Ofimática 365**, con 42 horas académicas por módulo. Obtuve **20/20 en Excel**, **20/20 en PowerPoint** y **18/20 en Word**. El certificado de enero de 2024 acredita 126 horas y una nota final de 19/20. También obtuve constancias de Perú Digital por cursos de ocho horas en cada una de las tres herramientas.
 
-- **Comercio internacional · Autopartes Porta, 2024.** Coordiné la recepción de mercancías con proveedores y transportistas. En un envío de UPS resolví una incidencia porque un obsequio del proveedor figuraba incorrectamente en la factura comercial.
-- **Diseño gráfico · AgroHuaral M&M, 2024.** Diseñé banners para campañas digitales y preparé maquetas en Photoshop e Illustrator para presentar las propuestas al equipo.
-- **Capacitación · CAPAE Perú, 2022–2023.** Impartí talleres de comunicación, trabajo en equipo y resolución de conflictos. En colegios de Huaral adapté las actividades para fomentar la participación.
+## Trayectoria profesional
+
+### Autopartes Porta · Asesor en comercio internacional | Huaral, 2024
+
+Coordiné con proveedores y transportistas la recepción de mercancías y mantuve al día los registros de importación. En uno de los envíos, un proveedor incluyó un obsequio que figuraba incorrectamente en la factura comercial. Gestioné la incidencia con UPS para resolver la discrepancia entre la documentación y el contenido del envío.
+
+### AgroHuaral M&M · Diseñador gráfico | Aucallama, 2024
+
+Diseñé banners para presentar productos y servicios en campañas digitales. Antes de preparar las piezas finales, desarrollé maquetas para que los equipos de marketing y desarrollo pudieran revisar las propuestas. Trabajé con **Photoshop e Illustrator**. También manejo **Canva** para diseño gráfico.
+
+### CAPAE Perú · Ponente y facilitador | Huaral, 2022–2023
+
+Diseñé capacitaciones para empleados sobre liderazgo y desarrollo profesional. Adapté el contenido a las necesidades de cada equipo e impartí talleres interactivos de comunicación, trabajo en equipo y resolución de conflictos. En colegios de Huaral utilicé actividades participativas para que los estudiantes pudieran practicar estas habilidades.
+
+### Mantenimiento y venta de computadoras | Huaral, 2019–2022
+
+Mis primeros trabajos en tecnología incluyeron el mantenimiento preventivo y correctivo de computadoras de escritorio y portátiles. Instalé Windows y utilicé herramientas de acceso remoto para diagnosticar y resolver problemas de rendimiento. También capacité a personas del sector educativo en tecnología e innovación y apoyé los canales de venta de productos de computación.
