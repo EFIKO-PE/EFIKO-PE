@@ -2,7 +2,7 @@
 
 Soy **Kenior Ruiz Ramírez**, creador de **EFIKO NEXT**, una aplicación para administradores y equipos de marketing que necesitan estudiar un mercado. Reúne en un mismo lugar el diseño de encuestas, el análisis de clientes y la evaluación de decisiones de negocio.
 
-[Abrir EFIKO NEXT](https://efiko-next-ctwa.vercel.app/) · [Ver la edición para Windows](https://github.com/EFIKO-PE/efiko-app/releases/latest)
+[Abrir EFIKO NEXT](https://efiko-next-ctwa.vercel.app/)
 
 ### ¿Qué puedes hacer con EFIKO NEXT?
 
