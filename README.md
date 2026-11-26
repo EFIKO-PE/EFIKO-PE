@@ -1,8 +1,23 @@
-# Hola, soy Kenior 👋
+# EFIKO NEXT · Investigación de mercados
 
-Soy **Kenior Ruiz Ramírez**. Me gradué en Administración de Negocios Internacionales en el IES Huando en 2022 y me formé en analítica y publicidad digital con Google. En **EFIKO** combino mi interés por los negocios y el desarrollo de software para explorar preguntas de mercado con datos de encuestas.
+Soy **Kenior Ruiz Ramírez**, creador de **EFIKO NEXT**, una aplicación para administradores y equipos de marketing que necesitan estudiar un mercado. Reúne en un mismo lugar el diseño de encuestas, el análisis de clientes y la evaluación de decisiones de negocio.
 
-[Servicios](#servicios-profesionales) · [Proyectos](https://github.com/EFIKO-PE/efiko-app) · [Trayectoria](#trayectoria-profesional) · [Formación](#formación-en-negocios-y-ofimática)
+[Abrir EFIKO NEXT](https://efiko-next-ctwa.vercel.app/) · [Ver la edición para Windows](https://github.com/EFIKO-PE/efiko-app/releases/latest)
+
+### ¿Qué puedes hacer con EFIKO NEXT?
+
+| Si tu pregunta es… | Así puedes investigarla |
+| :--- | :--- |
+| ¿A cuántas personas necesito encuestar? | Calcula el tamaño de muestra para tu estudio. Si usas una escala Likert, el alfa de Cronbach te ayuda a revisar si sus preguntas miden de forma consistente el mismo aspecto. |
+| ¿Qué grupos de clientes aparecen en mis datos? | Importa las respuestas desde Excel y agrupa perfiles similares con K-means. Si tienes dos mediciones, compara los segmentos con una matriz de transición para ver cuáles se mantienen y cuáles cambian. |
+| ¿Cómo encaja mi propuesta en el mercado? | Perfila a tu cliente, organiza la propuesta en un Lean Canvas y analiza la competencia con las cinco fuerzas de Porter. |
+| ¿Cuánto tendría que vender para cubrir mis costos? | Explora el punto de equilibrio con distintos escenarios y revisa indicadores de salud financiera antes de decidir qué supuestos conviene ajustar. |
+
+Por ejemplo, una empresa que quiere lanzar un servicio puede estimar cuántas respuestas necesita, identificar grupos con necesidades parecidas y calcular cuántas ventas cubrirían sus costos. Ese recorrido resume por qué desarrollé EFIKO NEXT: conectar lo que una empresa aprende de sus clientes con la decisión que tiene delante.
+
+Desarrollado con **TypeScript, Next.js y PostgreSQL**. Mi formación en Administración de Negocios Internacionales en el IES Huando y en analítica y publicidad digital con Google complementa mi trabajo de desarrollo.
+
+[Servicios](#servicios-profesionales) · [Sistemas dentales](#sistemas-para-clínicas-dentales) · [Trayectoria](#trayectoria-profesional) · [Formación](#formación-en-negocios-y-ofimática)
 
 ## Servicios profesionales
 
@@ -19,12 +34,6 @@ Trabajé en campañas de **Google Ads para 562 AGENCY**, una agencia de Californ
 | [Optimización de conversiones e integración con CRM](https://trafikdigital.com/servicios/optimizacion-cro/) | Reviso el recorrido desde el anuncio hasta el formulario o WhatsApp. Conecto las consultas con el equipo comercial mediante HubSpot, Zapier, Make o WhatsApp Business API para facilitar el seguimiento. |
 
 También trabajo la **segmentación de audiencias** con datos de clientes, encuestas y análisis de consistencia en SPSS. Para conocer las modalidades de diagnóstico, implementación y gestión continua, visita [Trafik Digital](https://trafikdigital.com/).
-
-## 🦉 EFIKO · Investigación de mercados
-
-**¿Los mismos clientes siguen comprando de la misma manera?** Con EFIKO puedes cargar dos mediciones desde Excel, segmentar las respuestas con K-means y ver en una matriz qué grupos se mantuvieron y cuáles cambiaron. Si todavía estás diseñando la encuesta, la aplicación también te ayuda a calcular el tamaño de la muestra.
-
-[Explorar el proyecto](https://github.com/EFIKO-PE/efiko-app) · [Descargar para Windows](https://github.com/EFIKO-PE/efiko-app/releases/latest)
 
 ## Sistemas para clínicas dentales
 
