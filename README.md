@@ -2,6 +2,22 @@
 
 Soy **Kenior Ruiz Ramírez**. Estudié Administración de Negocios Internacionales en el IES Huando y me formé en analítica y publicidad digital con Google. En **EFIKO** combino mi interés por los negocios y el desarrollo de software para explorar preguntas de mercado con datos de encuestas.
 
+## Servicios profesionales
+
+Trabajé en campañas de **Google Ads para 562 AGENCY**, una agencia de California, Estados Unidos. Estos son los servicios que ofrezco a empresas que quieren captar clientes y medir qué sucede después del clic.
+
+| Servicio | Cómo puedo ayudarte |
+| :--- | :--- |
+| [Gestión de Google Ads](https://trafikdigital.com/servicios/google-ads/) | Estructuro campañas de Búsqueda, Display y Performance Max. Reviso términos de búsqueda, excluyo consultas irrelevantes y ajusto las pujas según el costo de adquisición o el retorno objetivo. Para comercio electrónico, integro el catálogo de Merchant Center. |
+| [Publicidad en YouTube](https://trafikdigital.com/servicios/youtube-ads/) | Planifico campañas In-Stream, Shorts y Demand Gen desde Google Ads. Defino el mensaje de apertura, la llamada a la acción y las secuencias de anuncios para volver a llegar a personas que ya mostraron interés. |
+| [Auditoría de Google Ads](https://trafikdigital.com/servicios/auditoria-google-ads/) | Reviso dónde se invierte el presupuesto, qué búsquedas activan los anuncios y cómo se registran las conversiones. Entrego prioridades de mejora según el margen del negocio y el costo que puede asumir por cliente. |
+| [Desarrollo web y landing pages](https://trafikdigital.com/servicios/desarrollo-web/) | Creo sitios y páginas de campaña con Next.js, React o WordPress. Trabajo el SEO técnico, la velocidad en móviles y la coherencia entre lo que promete el anuncio y lo que encuentra el visitante. |
+| [Medición del lado del servidor](https://trafikdigital.com/servicios/tracking-server-side/) | Implemento Google Tag Manager, GA4 y la API de conversiones de Meta. Configuro los eventos y compruebo que una misma compra o consulta se cuente una sola vez cuando llega desde el navegador y el servidor. |
+| [Paneles de negocio y publicidad](https://trafikdigital.com/servicios/looker-studio/) | Construyo paneles en Looker Studio y Power BI que reúnen inversión, ingresos y márgenes. Así se puede comparar el costo de captar un cliente con lo que aporta cada venta. |
+| [Optimización de conversiones e integración con CRM](https://trafikdigital.com/servicios/optimizacion-cro/) | Reviso el recorrido desde el anuncio hasta el formulario o WhatsApp. Conecto las consultas con el equipo comercial mediante HubSpot, Zapier, Make o WhatsApp Business API para facilitar el seguimiento. |
+
+También trabajo la **segmentación de audiencias** con datos de clientes, encuestas y análisis de consistencia en SPSS. Para conocer las modalidades de diagnóstico, implementación y gestión continua, visita [Trafik Digital](https://trafikdigital.com/).
+
 ## 🦉 EFIKO · Investigación de mercados
 
 **¿Los mismos clientes siguen comprando de la misma manera?** Con EFIKO puedes cargar dos mediciones desde Excel, segmentar las respuestas con K-means y ver en una matriz qué grupos se mantuvieron y cuáles cambiaron. Si todavía estás diseñando la encuesta, la aplicación también te ayuda a calcular el tamaño de la muestra.
